@@ -1,0 +1,8 @@
+#!/bin/bash
+
+if [ "`curl example.com 2>/dev/null`" = "" ]; then
+  echo false
+  exit
+fi
+
+echo true
