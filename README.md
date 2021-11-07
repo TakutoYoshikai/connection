@@ -11,7 +11,7 @@ The internet connection checker.
 npm install -g TakutoYoshikai/connection
 ```
 
-**check connection**`
+**check connection**
 ```bash
 connection
 ```
